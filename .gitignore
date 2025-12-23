@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+.env.local
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Gradio
+flagged/
+gradio_cached_examples/
+
+# Project specific
+uploaded_media/
+
+# IDEs
+.vscode/
+.idea/
+
+# Mac
+.DS_Store
+
+uploaded_media
